@@ -2,7 +2,7 @@
 
 
 # 💫 Welcome!!!
-I am Achyuth and I'm  a 2nd year CS student at PES University, Bangalore.I've worked extensively on Django and MERN stack projects and also possess some knowledge of basic Kali Linux and Security flaws and exploitations.<br><br>I'm hoping to learn up Golang, Rust and some DevOps technologies in the near future and contribute more to open source.I'd also love to try and explore prompt engineering and the world of Web3 and blockchain,before improving my skills in handling large-scale distributed systems and databases.<br><br>I'm also a professional pianist and a part time tutor!<br>
+My name is Achyuth and I'm  a 2nd year CS student at PES University, Bangalore.I've worked extensively on Django and MERN stack projects and also possess some knowledge of basic Kali Linux and Security flaws and exploitations.<br><br>I'm hoping to learn up Golang, Rust and some DevOps technologies in the near future and contribute more to open source.I'd also love to try and explore prompt engineering and the world of Web3 and blockchain,before improving my skills in handling large-scale distributed systems and databases.<br><br>I'm also a professional pianist and a part time tutor!<br>
 
 
 ## 🌐 Socials:
