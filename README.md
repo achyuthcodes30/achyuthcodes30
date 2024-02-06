@@ -2,7 +2,7 @@
 
 
 # 💫 Welcome!!!
-My name is Achyuth and I'm  a 2nd year CS student at PES University, Bangalore.I've worked with website and systems for a while now.<br><br>.I'm hoping to explore and understand the design and architecture of large-scale distributed systems and databases.<br><br>I'm also a professional pianist and a part time tutor!<br>
+My name is Achyuth and I'm  a 2nd year CS student at PES University, Bangalore. I've worked with websites and systems for a while now.<br><br>. I'm hoping to explore and understand the design and architecture of large-scale distributed systems and databases.<br><br> I'm also a professional pianist and a part time tutor!<br>
 
 
 ## 🌐 Socials:
